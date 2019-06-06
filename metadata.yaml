@@ -1,11 +1,16 @@
 _repo: La-Casa-de-los-Cuervos_59631
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59631-h/images/cover.jpg
 creator:
   author:
     agent_name: Wast, Hugo
     gutenberg_agent_id: '50545'
     url: http://www.gutenberg.org/2009/agents/50545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59631#La-Casa-de-los-Cuervos
 gutenberg_issued: '2019-05-30'
 gutenberg_type: Text
 identifiers:
